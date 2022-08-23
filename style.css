@@ -1,0 +1,5 @@
+body {
+  --color-light: #f6f3ef;
+  --bg-color:var(--color-light); 
+  background-color: var(--bg-color);
+}

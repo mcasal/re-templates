@@ -1,0 +1,22 @@
+{
+  "name": "re-templates",
+  "version": "1.0.0",
+  "description": "Refactor some templates",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcasal/re-templates.git"
+  },
+  "author": "Marta Casal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcasal/re-templates/issues"
+  },
+  "homepage": "https://github.com/mcasal/re-templates#readme",
+  "devDependencies": {
+    "postcss": "8.4.16"
+  }
+}
