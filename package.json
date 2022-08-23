@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/mcasal/re-templates#readme",
   "devDependencies": {
-    "postcss": "8.4.16"
+    "autoprefixer": "^10.4.8",
+    "postcss": "8.4.16",
+    "postcss-custom-properties": "12.1.8",
+    "postcss-nesting": "10.1.10"
   }
 }
